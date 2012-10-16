@@ -1,4 +1,4 @@
-#These are Global Settings for Residence.
+#These are Global Settings for Residence.test
 Global:
     # This loads the <language>.yml file in the Residence Language folder
     # All Residence text comes from this file. (NOT DONE YET)
